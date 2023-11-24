@@ -1,4 +1,4 @@
-<h1>Hi, I'm Micah! Welcome to my GitHib page!</h1>
+<h1>Hi, I'm Micah! Welcome to my GitHub page!</h1>
 
 <h2>Projects:</h2>
 
