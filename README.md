@@ -2,6 +2,8 @@
 
 <h2>Projects:</h2>
 
+-[Detecting an Attack in Progress Lab](https://github.com/MNDigby/DetectingAttacksInProgressLab)
+
 <h2>Certifications:</h2>
 
 
