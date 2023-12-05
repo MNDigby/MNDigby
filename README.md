@@ -1,6 +1,6 @@
 <h1>Hi, I'm Micah! Welcome to my GitHub page!</h1>
 
-<h2>Projects:</h2>
+<h2>Projects/Labs:</h2>
 
 -[Detecting an Attack in Progress Lab](https://github.com/MNDigby/DetectingAttacksInProgressLab)
 
